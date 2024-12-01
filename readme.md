@@ -19,7 +19,7 @@ Este é um projeto de desenvolvimento de um jogo da velha, realizado como parte 
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/seu-usuario/jogo-da-velha.git
+    git clone https://github.com/bnomartins/desafio-dio_jogo_velha.git
     ```
 2. Navegue até o diretório do projeto:
     ```bash
@@ -33,24 +33,6 @@ Este é um projeto de desenvolvimento de um jogo da velha, realizado como parte 
 - `style.css`: Estilos para a interface do jogo.
 - `script.js`: Lógica do jogo.
 
-## Contribuição
-
-Sinta-se à vontade para contribuir com melhorias ou correções. Para isso, siga os passos abaixo:
-
-1. Faça um fork deste repositório.
-2. Crie uma branch para sua feature:
-    ```bash
-    git checkout -b minha-feature
-    ```
-3. Commit suas mudanças:
-    ```bash
-    git commit -m 'Adiciona minha feature'
-    ```
-4. Faça um push para a branch:
-    ```bash
-    git push origin minha-feature
-    ```
-5. Abra um Pull Request.
 
 ## Licença
 
@@ -60,9 +42,7 @@ Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICEN
 
 Para mais informações, entre em contato:
 
-- Nome: Seu Nome
-- Email: seu-email@example.com
-- LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/seu-usuario)
+- LinkedIn: [Seu LinkedIn](https://github.com/bnomartins)
 
 ---
 
